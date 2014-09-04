@@ -6,6 +6,8 @@ android and socketio demo
 
 1.介绍
 结合android 和 socketio
+项目使用android studio 
+服务端nodejs + express
 
 2.使用
  1）在nodejs环境下 执行server.js文件
